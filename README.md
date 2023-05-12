@@ -8,7 +8,7 @@ Lab access link: https://18.142.122.96:8443/auth/realms/workshop-asean/protocol/
 
 CDP login username: workshop0xx (replace xx with the number assigned to your user/group)
 
-CDP login pasword: Hfkjw9w#
+CDP login pasword: 
 
 CDP workload username: workshop0xx (replace xx with the number assigned to your user/group)
 
